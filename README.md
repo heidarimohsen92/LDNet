@@ -9,7 +9,7 @@ arXiv https://arxiv.org/abs/2009.08020
 arXiv. https://arxiv.org/abs/1810.12890
 ###
 ###
-## Lane Marking Detection
+# Lane Marking Detection
 Dataset:https://www.kaggle.com/datasets/jasonyuan000/unet-lanes-v3
 ### loss: 0.0170 
 ### dice_coef: 0.7535
@@ -18,7 +18,7 @@ Dataset:https://www.kaggle.com/datasets/jasonyuan000/unet-lanes-v3
 ###
 ###
 ###
-## Skin cancer
+# Skin cancer
 Dataset:https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification?select=images
 ### loss: 0.1403
 ### dice_coef: 0.8673
@@ -27,7 +27,7 @@ Dataset:https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-an
 ###
 ###
 ###
-## Brain tumor
+# Brain tumor
 https://www.kaggle.com/datasets/tinashri/brain-tumor-segmentation-datasets
 ### loss: 0.0191
 ### dice_coef: 0.6873
